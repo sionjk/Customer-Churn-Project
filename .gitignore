@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+reports/
+# Keep raw data local until you have checked the dataset's redistribution terms.
+data/raw/*.xlsx

@@ -1,0 +1,4 @@
+# The only direct third-party dependencies used by starter_analysis.py.
+# These exact versions were used to validate the supplied starter.
+pandas==3.0.1
+openpyxl==3.1.5
